@@ -41,7 +41,7 @@ def app(st, current_dir, Image):
         
         with col1:
             st.image(Linkedin_pic, width=50)
-            st.markdown('<a href="https://www.linkedin.com/in/oluwadamilola-kolawole-646106307" target="_blank">LinkedIn</a>', unsafe_allow_html=True)
+            st.markdown('<a href="https://www.linkedin.com/in/oluwadamilola-kolawole" target="_blank">LinkedIn</a>', unsafe_allow_html=True)
         
         with col2:
             st.image(Github_pic, width=50)
